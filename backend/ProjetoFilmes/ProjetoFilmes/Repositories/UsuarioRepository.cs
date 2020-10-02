@@ -1,5 +1,5 @@
-﻿using ProjetoFilmes.Domains;
-using ProjetoFilmes.Interfaces;
+﻿using ProjetoFilmes.Interfaces;
+using ProjetoFilmes.Models;
 using System.Linq;
 
 namespace ProjetoFilmes.Repositories

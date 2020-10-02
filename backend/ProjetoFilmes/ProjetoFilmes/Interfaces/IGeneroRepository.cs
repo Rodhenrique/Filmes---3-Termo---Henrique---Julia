@@ -1,4 +1,4 @@
-﻿using ProjetoFilmes.Domains;
+﻿using ProjetoFilmes.Models;
 using System.Collections.Generic;
 
 namespace ProjetoFilmes.Interfaces

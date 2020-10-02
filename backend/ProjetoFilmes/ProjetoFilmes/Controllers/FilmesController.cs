@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
-using ProjetoFilmes.Domains;
 using ProjetoFilmes.Interfaces;
+using ProjetoFilmes.Models;
 using ProjetoFilmes.Repositories;
 
 namespace ProjetoFilmes.Controllers

@@ -96,6 +96,10 @@ namespace ProjetoFilmes
                 c.RoutePrefix = string.Empty;
             });
 
+            app.UseCors(builder => builder
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
             // Define o uso de autenticação
             app.UseAuthentication();
 

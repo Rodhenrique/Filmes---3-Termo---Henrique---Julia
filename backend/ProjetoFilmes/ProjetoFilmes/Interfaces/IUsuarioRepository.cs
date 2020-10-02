@@ -1,4 +1,5 @@
-﻿using ProjetoFilmes.Domains;
+﻿
+using ProjetoFilmes.Models;
 
 namespace ProjetoFilmes.Interfaces
 {

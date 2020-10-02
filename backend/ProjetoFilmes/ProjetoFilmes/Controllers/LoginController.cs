@@ -3,8 +3,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using ProjetoFilmes.Domains;
 using ProjetoFilmes.Interfaces;
+using ProjetoFilmes.Models;
 using ProjetoFilmes.Repositories;
 using ProjetoFilmes.ViewModels;
 

@@ -4,11 +4,6 @@
         <name>ProjetoFilmes</name>
     </assembly>
     <members>
-        <member name="T:ProjetoFilmes.Domains.Usuarios">
-            <summary>
-            Classe responsável pelo modelo de usuários
-            </summary>
-        </member>
         <member name="F:ProjetoFilmes.Controllers.FilmesController._filmeRepository">
             <summary>
             Cria um objeto que recebe os métodos estabelecidos na interface
@@ -32,14 +27,14 @@
             <param name="id">ID do filme que será buscado</param>
             <returns>Retorna um filme buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Controllers.FilmesController.Cadastrar(ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Controllers.FilmesController.Cadastrar(ProjetoFilmes.Models.Filmes)">
             <summary>
             Cadastra um novo filme
             </summary>
             <param name="novoFilme"></param>
             <returns>Retorna um status code</returns>
         </member>
-        <member name="M:ProjetoFilmes.Controllers.FilmesController.Atualizar(System.Int32,ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Controllers.FilmesController.Atualizar(System.Int32,ProjetoFilmes.Models.Filmes)">
             <summary>
             Atualiza um filme existente
             </summary>
@@ -77,14 +72,14 @@
             <param name="id">ID do gênero que será buscado</param>
             <returns>Retorna um gênero buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Controllers.GenerosController.Cadastrar(ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Controllers.GenerosController.Cadastrar(ProjetoFilmes.Models.Generos)">
             <summary>
             Cadastra um novo gênero
             </summary>
             <param name="novoGenero">Objeto com as informações que serão cadastradas</param>
             <returns>Retorna um status code</returns>
         </member>
-        <member name="M:ProjetoFilmes.Controllers.GenerosController.Atualizar(System.Int32,ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Controllers.GenerosController.Atualizar(System.Int32,ProjetoFilmes.Models.Generos)">
             <summary>
             Atualiza um gênero existente
             </summary>
@@ -134,13 +129,13 @@
             <param name="idBuscar">ID do filme que será buscado</param>
             <returns>Retorna um filme buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Interfaces.IFilmeRepository.Cadastrar(ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Interfaces.IFilmeRepository.Cadastrar(ProjetoFilmes.Models.Filmes)">
             <summary>
             Cadastra um novo filme
             </summary>
             <param name="novoFilme">Objeto com as informações que serão cadastradas</param>
         </member>
-        <member name="M:ProjetoFilmes.Interfaces.IFilmeRepository.Atualizar(System.Int32,ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Interfaces.IFilmeRepository.Atualizar(System.Int32,ProjetoFilmes.Models.Filmes)">
             <summary>
             Atualiza um filme existente
             </summary>
@@ -171,13 +166,13 @@
             <param name="idBuscar">ID do gênero que será buscado</param>
             <returns>Retorna um gênero buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Interfaces.IGeneroRepository.Cadastrar(ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Interfaces.IGeneroRepository.Cadastrar(ProjetoFilmes.Models.Generos)">
             <summary>
             Cadastra um novo gênero
             </summary>
             <param name="novoGenero">Objeto com as informações que serão cadastradas</param>
         </member>
-        <member name="M:ProjetoFilmes.Interfaces.IGeneroRepository.Atualizar(System.Int32,ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Interfaces.IGeneroRepository.Atualizar(System.Int32,ProjetoFilmes.Models.Generos)">
             <summary>
             Atualiza um gênero existente
             </summary>
@@ -213,7 +208,7 @@
             Instancia um novo contexto para utilizar os métodos do EF Core
             </summary>
         </member>
-        <member name="M:ProjetoFilmes.Repositories.FilmeRepository.Atualizar(System.Int32,ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Repositories.FilmeRepository.Atualizar(System.Int32,ProjetoFilmes.Models.Filmes)">
             <summary>
             Atualiza um filme existente
             </summary>
@@ -227,7 +222,7 @@
             <param name="idBuscar">ID do filme que será buscado</param>
             <returns>Retorna um filme buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Repositories.FilmeRepository.Cadastrar(ProjetoFilmes.Domains.Filmes)">
+        <member name="M:ProjetoFilmes.Repositories.FilmeRepository.Cadastrar(ProjetoFilmes.Models.Filmes)">
             <summary>
             Cadastra um novo filme
             </summary>
@@ -255,7 +250,7 @@
             Instancia um novo contexto para utilizar os métodos do EF Core
             </summary>
         </member>
-        <member name="M:ProjetoFilmes.Repositories.GeneroRepository.Atualizar(System.Int32,ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Repositories.GeneroRepository.Atualizar(System.Int32,ProjetoFilmes.Models.Generos)">
             <summary>
             Atualiza um gênero existente
             </summary>
@@ -269,7 +264,7 @@
             <param name="idBuscar">ID do gênero que será buscado</param>
             <returns>Retorna um gênero buscado</returns>
         </member>
-        <member name="M:ProjetoFilmes.Repositories.GeneroRepository.Cadastrar(ProjetoFilmes.Domains.Generos)">
+        <member name="M:ProjetoFilmes.Repositories.GeneroRepository.Cadastrar(ProjetoFilmes.Models.Generos)">
             <summary>
             Cadastra um novo gênero
             </summary>
