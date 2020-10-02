@@ -1,0 +1,86 @@
+        * {
+            padding: 0%;
+            margin: 0%;
+        }
+        
+        header {
+            background-color: #9BD2DE;
+            width: 100%;
+            Height: 180px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            width: 100%;
+            cursor: pointer;
+        }
+        
+        nav ul {
+            display: flex;
+            justify-content: flex-end;
+        }
+        
+        nav li {
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem;
+        }
+        
+        .menu {
+            text-decoration: none;
+        }
+        
+        .container_horizontal {
+            display: flex;
+        }
+        
+        main {
+            background-color: white;
+            Height: 480px;
+        }
+        
+        .meio_topo {
+            margin: 1rem;
+            text-align: center;
+        }
+        
+        .section1 {
+            margin: 4rem;
+        }
+        
+        .btn_listar_filmes {
+            text-align: end;
+            text-decoration: none;
+        }
+        
+        .btn_listar_filmes button {
+            background-color: #F6511D;
+            cursor: pointer;
+            color: white;
+            margin: 4rem;
+            width: 180px;
+            height: 58px;
+            border: none;
+        }
+        
+        footer {
+            background-color: #F6511D;
+            height: 250px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        
+        .container_esquerdo {
+            display: flex;
+        }
+        
+        .container_direito {
+            text-align: end;
+            color: white;
+        }
