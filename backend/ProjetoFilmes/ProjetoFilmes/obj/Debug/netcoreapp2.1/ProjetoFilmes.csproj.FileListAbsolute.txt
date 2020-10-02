@@ -1,0 +1,16 @@
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.deps.json
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.runtimeconfig.json
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.runtimeconfig.dev.json
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.dll
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.pdb
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\bin\Debug\netcoreapp2.1\ProjetoFilmes.xml
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.RazorAssemblyInfo.cache
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.RazorAssemblyInfo.cs
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.AssemblyInfo.cs
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.RazorTargetAssemblyInfo.cache
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.dll
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.xml
+C:\Users\henri\Desktop\Filmes---3-Termo---Henrique---Julia\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.pdb
